@@ -1,0 +1,29 @@
+
+.myheader{
+    width: 100% !important;
+    height: 50% !important;
+    background-color: #5c60e0;
+    color: white;
+    font-size:3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom:5%;
+    padding-top:3% !important;
+    padding-bottom:3% !important;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.button{
+    background-color: #5c60e0;
+    color: white;
+    font-weight: bolder;
+}
+
+strong{
+    color: #5c60e0;
+}
+
+.donut{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
