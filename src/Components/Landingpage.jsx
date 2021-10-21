@@ -93,6 +93,7 @@ export default function Landingpage() {
   const barOptions = {
     chart: {
       id: "basic-bar",
+      colors: ["#17a653", "#66a7f2", "#f2cf66", "#fa7ddd", "#b9fa7d"],
     },
     colors: ["#17a653", "#66a7f2", "#f2cf66", "#fa7ddd", "#b9fa7d"],
     xaxis: {
