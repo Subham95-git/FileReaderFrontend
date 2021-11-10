@@ -148,7 +148,7 @@ export default function Landingpage() {
                   className={styles.button}
                   onClick={obClickHandler}
                 >
-                  Submit
+                  Click to Check
                 </Button>
               </Form>
 
